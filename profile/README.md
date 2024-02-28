@@ -9,7 +9,7 @@ We are currently working hard to integrate more robots into this application, su
 - Baxter (NYI)
 
 > **Note**:
-> This application was referenced in the paper ***Enabling Untrained Users to Shape Real-World Robot Behaviour Using an Intuitive Visual Programming Tool in Human-Robot Interaction Scenarios*** by the authors: Michel Weike, Kai Ruske, Reinhard Gerndt, Tobias Doernbach.
+> This application was referenced in the paper ***Weike, M., Ruske, K., Gerndt, R. & Doernbach, T., 2024. Enabling Untrained Users to Shape Real-World Robot Behavior Using an Intuitive Visual Programming Tool in Human-Robot Interaction Scenarios, in International Symposium on Technological Advances in Human-Robot Interaction***.
 
 ## Getting Started
 
