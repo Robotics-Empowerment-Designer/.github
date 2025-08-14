@@ -2,7 +2,7 @@
 
 Welcome to Node-(RED)<sup>2</sup>, an open-source visual programming tool/extension based on [Node-RED](https://github.com/node-red) to help users program robots for real-world scenarios, with a focus on human interaction and connectivity with Internet-of-Things (IoT) devices. This tool has been created and is maintained within the [Human-Centered Robotics Lab](https://hcr-lab.de) at [Ostfalia University of Applied Sciences](https://ostfalia.de/en/).
 
-Node-(RED)<sup>2</sup> is a self-hosted web application designed to allow even untrained users to easily create and configure scenarios for heterogeneous social robots. Using custom nodes and flow control, this project leverages and extends the capabilities of Node-RED as a low-code (visual) programming environment.
+Node-(RED)<sup>2</sup> is a self-hosted web application designed to allow **untrained users** to easily **create and configure scenarios for heterogeneous social robots**. Using custom nodes and flow control, this project leverages and extends the capabilities of Node-RED as a **visual programming** environment.
 
 Currently supported robot models:
 - Pepper
