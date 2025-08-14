@@ -23,5 +23,5 @@ Node-(RED)<sup>2</sup> is licensed under the [Apache License 2.0](https://www.ap
 
 ## Acknowledgments
 - Special thanks go to the original developers and maintainers *Michel Weike* and *Kai Ruske* for the first version of this tool and the integration of the Pepper robot.
-- *Loan Bernat* has developed the Sawyer middleware and for the first time created an interaction of multiple robots, as shown here: https://www.youtube.com/watch?v=rq2TTOWhma8
-- *Robert Barabas* has made essential improvements and optimizations to the multi-robot setup, so that it is easy to use, robust and fast.
+- *Loan Bernat* has developed the Sawyer middleware and demonstrated its use in a video: https://www.youtube.com/watch?v=rq2TTOWhma8
+- *Robert Barabas* has for the first time created an interaction of multiple robots and made essential improvements and optimizations to the multi-robot setup, so that it is easy to use, robust and fast.
