@@ -14,8 +14,8 @@ Currently supported robot models:
 
 ## Getting Started
 
-To get started with Node-(RED)<sup>2</sup>, visit the [main repository](https://github.com/Robotics-Empowerment-Designer/RED-Platform) and check the [installation instructions](https://github.com/Robotics-Empowerment-Designer/RED-Platform?tab=readme-ov-file#installation).
-Should you have any problems feel free to open a new issue, but please read the [contribution guide](https://github.com/Robotics-Empowerment-Designer/RED-Platform/blob/master/CONTRIBUTING.md#node-red2-contribution-guidelines) first!
+To get started with Node-(RED)<sup>2</sup>, visit the [main repository](https://github.com/Robotics-Empowerment-Designer/node-red-standalone) and check the [installation instructions](https://github.com/Robotics-Empowerment-Designer/node-red-standalone?tab=readme-ov-file#installation).
+Should you have any problems feel free to open a new issue, but please read the [contribution guide](https://github.com/Robotics-Empowerment-Designer/node-red-standalone/blob/master/CONTRIBUTING.md) first!
 
 ## License
 
