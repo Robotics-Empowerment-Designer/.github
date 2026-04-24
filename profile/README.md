@@ -10,7 +10,9 @@ Currently supported robot models:
 - Sawyer
 
 > **Note**:
-> This application was referenced in the paper ***Weike, M., Ruske, K., Gerndt, R. & Doernbach, T., 2024. Enabling Untrained Users to Shape Real-World Robot Behavior Using an Intuitive Visual Programming Tool in Human-Robot Interaction Scenarios, in International Symposium on Technological Advances in Human-Robot Interaction**, https://dl.acm.org/doi/10.1145/3648536.3648541*.
+> This application was referenced in the papers
+> - ***Weike, M., Ruske, K., Gerndt, R. & Doernbach, T., 2024. Enabling Untrained Users to Shape Real-World Robot Behavior Using an Intuitive Visual Programming Tool in Human-Robot Interaction Scenarios, in International Symposium on Technological Advances in Human-Robot Interaction**, https://dl.acm.org/doi/10.1145/3648536.3648541* and
+> - ***Barabas, R., Blum, K., Gerndt, R. & Doernbach, T., 2026. Multi-Robot Collaboration Framework for Seamless Efficient Human-Robot-Robot Interaction Research: A Cocktail Bar Case Study, in International Conference on Social Robotics+Art** with an [accompanying video](https://www.youtube.com/watch?v=vek_xKsHYx4)*.
 
 ## Getting Started
 
